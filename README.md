@@ -1,5 +1,5 @@
 # EV_V2G_Flexibility
-This repository contains the input data used in the paper "EVs Potential for Smoothing Daily Load Profile Considering Mobility Needs and Solar Output".
+This repository contains the input data used in the paper "EVs' Potential for Smoothing Daily Load Profile Considering Mobility Needs and Solar Output".
 
 "Chainlist.txt" contains personal vehicle-based trip chains derived from the CMAP 2017 travel survey. Each trip chain includes a number of trips, with each trip having the following attributes: Origin, Destination, Start time, End time, and Distance. Locations are provided at the census tract resolution. Times are rounded to 15-minute intervals starting from midnight, ranging from 0 (midnight) to 95 (11:45 PM). Distances are measured in miles.
 
